@@ -1,1 +1,45 @@
 # Recetas
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+
+	<h1>Recetas</h1>
+	<img src="imagenes/SopaParaguaya.jpg"></br>
+	<a href="https://comidasparaguayas.com/receta-sopa-paraguaya/">Receta de Sopa Paraguaya</a></br>
+	<p>La sopa paraguaya a pesar de su nombre, no es exactamente una sopa sino más bien una especie de bizcocho salado y esponjoso. La misma se prepara tradicionalmente en base a harina de maíz, manteca de cerdo, cebolla, leche fresca y queso paraguay (queso fresco). La combinación de estos ingredientes dan como resultado un plato de exquisito sabor, gran aroma y color inigualables.</p>
+    </br>
+    </br>
+
+	<img src="imagenes/ChipaGuasu.jpg"></br>
+	<a href="https://comidasparaguayas.com/receta-chipa-guazu/">Receta de Chipa Guasu</a></br>
+	<p>El chipa guazú que también se suele escribir como 'chipa guasu' es una especie de tarta que tiene un aspecto y preparación muy parecida a la sopa paraguaya, pero con la diferencia que en lugar de harina de maíz se utiliza choclo tierno para su preparación.</p>
+    </br>
+    </br>
+
+
+	<img src="imagenes/Mbeju.jpg"></br>
+	<a href="https://www.recetasgratis.net/receta-de-mbeju-o-mbeyu-9410.html">Receta de Mbeju</a></br>
+	<p>El mbejú o mbeyú es un plato sincrético que proviene de Paraguay, al sur de América. De clara influencia indígena guaraní por el uso del almidón de mandioca o yuca, también se le agrega queso y mantequilla, productos añadidos por los jesuitas españoles. De hecho, la misma palabra 'mbejú' -o 'mbeyú'- es un vocablo guaraní que significa “torta aplastada”, y en esto consiste esta preparación: es una especie de tortilla que reúne los ingredientes anteriores y que se cocinan asados en una sartén.</p>
+    </br>
+    </br>
+
+
+	<img src="imagenes/PastelMandio.jpg"></br>
+	<a href="https://cookpad.com/mx/recetas/96573-empanada-de-mandioca-o-pastel-mandio">Receta de Pastel Mandi'o</a></br>
+	<p>El pastel mandi'o es un delicioso aperitivo muy representativo de la gastronomía paraguaya hecho con una masa de yuca o mandioca y que por lo general se rellena de carne de res. Son muy similares en su forma a las clásicas empanadas. Se acostumbra a servirse acompañada de una salsa picante.</p>
+    </br>
+    </br>
+
+
+	<img src="imagenes/PayaguaMascada.jpg"></br>
+	<a href="https://www.recetasparaguay.com/recetas/entradas/paguaya-mascada">Receta de Payagua Mascada</a></br>
+	<p>Pajagua mascada es una masa frita cuya base es la mandioca, una especie de croqueta con forma de hamburguesa, especialmente consumida en época de San Juan (en el mes de junio).Se le da también el nombre de “payaguá mascada”, en alusión a una de las etnias guaraníticas (“payaguáes”) que poblaron la geografía paraguaya en tiempos precolombinos.</p>
+    
+   
+
+</body>
+</html>
